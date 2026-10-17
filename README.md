@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh772744&theme=chalk&no-frame=true&column=7" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=healy-rishabh&theme=chalk&no-frame=true&column=7" alt="Trophies" /></a>
 </p>
 
 ## About Me
