@@ -7,7 +7,9 @@
   <a href="mailto:sinha.rishabh.r@gmail.com"><img src="https://img.shields.io/badge/Email-sinha.rishabh.r%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh772744&theme=chalk&no-frame=true&column=7" alt="Trophies" /></a>
+</p>
 
 ## About Me
 
@@ -15,6 +17,7 @@
 - 💼 Before that I was **Senior Engineering Lead at Healync**, a healthcare SaaS company, where I led a 25-person team delivering our Version 2 clinic management system
 - 🏢 At **Accenture**, I migrated 100 TB of enterprise data and 300+ stored procedures from Teradata to Snowflake
 - 🧠 I've built ML pipelines for medical data, including a BERT classifier for medical text (96% test accuracy) and an AWS Textract + XGBoost report summarisation pipeline
+- 📜 I hold **7 Microsoft certifications**, including Azure AI Engineer Associate and Azure Data Scientist Associate
 - 💬 Ask me about **Machine Learning, NLP, Backend Engineering, Data Engineering and AWS**
 - 📫 Reach me at **[sinha.rishabh.r@gmail.com](mailto:sinha.rishabh.r@gmail.com)**
 - ⚡ Fun fact: **Hell hath no fury like me when I'm slightly inconvenienced and/or hungry**
@@ -27,6 +30,18 @@ A three-lead ECG monitor built on an ESP32, with C++ firmware that filters the s
 
 **🚀 Antriksh Mars Rover Team**
 Built power management and ROS integration for our university's rover in the international University Rover Challenge (2020).
+
+## Certifications
+
+| Certification | Exam | Credential |
+|---|---|---|
+| Microsoft Certified: Azure AI Engineer Associate | AI-102 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/6B03D9A1A47A0180?sharingId=BF1E23CE8B464B74) |
+| Microsoft Certified: Azure Data Scientist Associate | DP-100 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/2C23EC73CEB247D4?sharingId=BF1E23CE8B464B74) |
+| Microsoft Certified: Azure Enterprise Data Analyst Associate | DP-500 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/94A6FD6B25F4DB8?sharingId=BF1E23CE8B464B74) |
+| Microsoft Certified: Azure AI Fundamentals | AI-900 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/B48B50C8EEC1708C?sharingId=BF1E23CE8B464B74) |
+| Microsoft Certified: Azure Data Fundamentals | DP-900 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/C6A5E6044C1C50A3?sharingId=BF1E23CE8B464B74) |
+| Microsoft Certified: Azure Fundamentals | AZ-900 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/DCF003343BEDF33?sharingId=BF1E23CE8B464B74) |
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals | SC-900 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/SinhaRishabh-2962/A77A0FA76D9FA909?sharingId=BF1E23CE8B464B74) |
 
 ## Tech Stack
 
@@ -118,3 +133,12 @@ Built power management and ROS integration for our university's rover in the int
   </tr>
 </table>
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh772744&show_icons=true&locale=en&theme=synthwave&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rishabh772744&theme=synthwave&hide_border=true" alt="GitHub streak" />
+</p>
