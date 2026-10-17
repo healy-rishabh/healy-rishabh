@@ -136,9 +136,9 @@ Built power management and ROS integration for our university's rover in the int
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh772744&show_icons=true&locale=en&theme=synthwave&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=healy-rishabh&show_icons=true&locale=en&theme=synthwave&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rishabh772744&theme=synthwave&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=healy-rishabh&theme=synthwave&hide_border=true" alt="GitHub streak" />
 </p>
